@@ -1,7 +1,7 @@
 {
   "name": "leap_year",
   "version": "1.0.0",
-  "main": "leap_year.js",
+  "main": "https://github.com/lesovba/JS_NPM_LeapYear/blob/main/package.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
